@@ -16,6 +16,6 @@ Po doběhnutí scriptu se ve stejném adresáři objeví output.json, tady jsou 
 
 Zajímavé fily:
 
-\kurz_listek\output.json (výstupní data)
-\kurz_listek\kurz_listek\spiders\table_spider.py (tady se děje samotná scrapovací logika)
-\kurz_listek\kurz_listek\settings.py (tady se configuruje Scrapy knihovna aby fungovala s playwright) 
+\kurz_listek\output.json (výstupní data) <br />
+\kurz_listek\kurz_listek\spiders\table_spider.py (tady se děje samotná scrapovací logika) <br />
+\kurz_listek\kurz_listek\settings.py (tady se configuruje Scrapy knihovna aby fungovala s playwright) <br />
